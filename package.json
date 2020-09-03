@@ -1,0 +1,19 @@
+{
+  "main": "index.html",
+  "name": "eBook",
+  "description": "eBook",
+  "version": "0.1.0",
+  "window": {
+    "title": "eBook",
+    "toolbar": false,
+    "frame": true,
+    "width": 800,
+    "height": 700,
+    "position": "mouse",
+    "min_width": 700,
+    "min_height": 500
+  },
+  "webkit": {
+    "plugin": true
+  }
+}
